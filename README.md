@@ -3,12 +3,17 @@ Aplicação web para gerenciamento de agendamentos, desenvolvida com JavaScript,
 O projeto conta com Webpack para empacotamento, Babel para compatibilidade de código e JSON Server para simular uma API REST.
 
 🚀 Funcionalidades
+
 📅 Agendar um atendimento
+
 🔍 Filtrar agendamentos por data
+
 ❌ Remover agendamentos
+
 🔄 Atualização em tempo real com consulta à API
 
 🛠️ Tecnologias e Pacotes Utilizados
+
 Front-end:
 
 HTML5 (estruturação semântica)
