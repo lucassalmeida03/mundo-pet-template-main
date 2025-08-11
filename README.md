@@ -12,6 +12,7 @@ O projeto conta com Webpack para empacotamento, Babel para compatibilidade de c�
 
 🔄 Atualização em tempo real com consulta à API
 
+
 🛠️ Tecnologias e Pacotes Utilizados
 
 Front-end:
@@ -24,6 +25,7 @@ JavaScript (ES6+)
 
 dayjs para manipulação de datas
 
+
 Empacotamento e Build:
 
 webpack (webpack, webpack-cli, webpack-dev-server)
@@ -34,6 +36,7 @@ copy-webpack-plugin
 
 css-loader e style-loader
 
+
 Transpilação:
 
 @babel/core
@@ -42,9 +45,11 @@ Transpilação:
 
 babel-loader
 
+
 Back-end Fake API:
 
 json-server
+
 
 📂 Instalação e Uso
 
