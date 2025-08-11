@@ -1,0 +1,12 @@
+{
+  "schedules": [
+    {
+      "id": "1754940798669",
+      "name": "Suelen",
+      "petName": "Zara",
+      "serviceName": "Banho e tosa",
+      "when": "2025-08-11T21:00:00-03:00",
+      "totalTime": "21:00"
+    }
+  ]
+}

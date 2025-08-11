@@ -1,0 +1,13 @@
+.image-logo {
+    width: 9.5625rem;
+    height: 3rem ;
+    background-color: #2E2C30;
+    padding: 0.75rem 1.25rem;
+    border-bottom-right-radius: 0.75rem;
+
+    & img {
+        width: 7.0625rem;
+        height: 1.5rem;
+    } 
+
+}
