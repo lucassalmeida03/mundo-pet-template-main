@@ -54,7 +54,7 @@ npm install
 
 ▶️ Como rodar o projeto
 
-1. Iniciar o servidor da API
+1. Iniciar o servidor da API - 
 npm run server
 
 
@@ -62,7 +62,7 @@ A API estará disponível, por padrão, em:
 
 http://localhost:3333/schedules
 
-2. Iniciar o servidor de desenvolvimento
+2. Iniciar o servidor de desenvolvimento - 
 npm run dev
 
 o Webpack Dev Server já vai abrir a aba automaticamente.
